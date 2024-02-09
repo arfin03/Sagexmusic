@@ -4,7 +4,7 @@ from AloneXMusic import app
 from config import BOT_USERNAME
 
 start_txt = """
-✪ ᴡᴇʟᴄᴏᴍᴇ ғᴏʀ sᴀɢᴡ ʀᴇᴘᴏ ✪
+✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴀɢᴇ ʀᴇᴘᴏ ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
