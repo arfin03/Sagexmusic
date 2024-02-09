@@ -2,12 +2,12 @@
 ### 🌷𝐕ɪsɪᴛᴏʀs🌷
 
 <!--
-**TeamAloneOp/AloneXMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sagexdd/Sagexmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TeamAloneOp/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Sagexdd/count.svg" />
 </p>
 
 
@@ -19,13 +19,13 @@
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneXMusic?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXMusic?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/TeamAloneOp/AloneXMusic?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/TeamAloneOp/AloneXMusic?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/TeamAloneOp/AloneXMusic?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/TeamAloneOp/AloneXMusic?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TeamAloneOp/AloneXMusic&amp;title=Repo%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/Sagexdd/Sagexmusic?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/Sagexdd/Sagexmusic?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/Sagexdd/Sagexmusic?style=flat-square" alt="Issues">
+<a href="https://github.com/Sagexdd/Sagexmusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+  <img src="https://img.shields.io/github/contributors/Sagexdd/Sagexmusic?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/Sagexdd/Sagexmusic?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sagexdd/Sagexmusic&amp;title=Repo%20Views" alt="Views">
 </p>
 
 <p align='center'>
@@ -50,7 +50,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Sagexdd/Sagexmusic)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sagexdd/Sagexmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
