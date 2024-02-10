@@ -59,8 +59,8 @@
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![SAGE](https://telegra.ph/file/647090bf94b0eeb8b72ba.jpg)](https://t.me/unfav_sage)
-</p>
+
+<a href="t.me/unfav_sage"> <img src="https://img.shields.io/badge/Developer-black?style=for-the-badge&logo=Developer" width="220" height="38.45"/></a>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
