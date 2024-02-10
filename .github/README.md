@@ -60,7 +60,7 @@
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 
-<a href="t.me/unfav_sage"> <img src="https://img.shields.io/badge/Developer-black?style=for-the-badge&logo=Developer" width="220" height="38.45"/></a>
+<a href="https://telegram.me/sagebotsupport"> <img src="https://img.shields.io/badge/Developer-black?style=for-the-badge&logo=Developer" width="220" height="38.45"/></a>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
