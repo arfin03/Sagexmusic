@@ -84,9 +84,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://telegra.ph/file/f23b8e345bf635ae0bcf3.jpg", "https://telegra.ph/file/12867a216955e31a73375.jpg", "https://telegra.ph/file/0f3422cd8a830f3c58681.jpg", "https://telegra.ph/file/c69ba9df77e6dbdf51f0e.jpg"]
-PING_IMG_URL = ["https://telegra.ph/file/c69ba9df77e6dbdf51f0e.jpg", "https://telegra.ph/file/12867a216955e31a73375.jpg", "https://telegra.ph/file/0f3422cd8a830f3c58681.jpg", "https://telegra.ph/file/f23b8e345bf635ae0bcf3.jpg"] 
-STATS_IMG_URL = "https://telegra.ph/file/78dae4ef6ae56c5610181.jpg"
+START_IMG_URL = ["https://telegra.ph/file/571367b1eea6ab10f75fb.jpg", "https://telegra.ph/file/af106b1b43e4c60bf11f9.jpg", "https://telegra.ph/file/718a7d5768a31d8c80c79.jpg"]
+PING_IMG_URL = ["https://telegra.ph/file/571367b1eea6ab10f75fb.jpg", "https://telegra.ph/file/af106b1b43e4c60bf11f9.jpg", "https://telegra.ph/file/718a7d5768a31d8c80c79.jpg"] 
+STATS_IMG_URL = "https://telegra.ph/file/718a7d5768a31d8c80c79.jpg"
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg"
