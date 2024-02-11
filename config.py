@@ -84,9 +84,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://telegra.ph/file/571367b1eea6ab10f75fb.jpg", "https://telegra.ph/file/af106b1b43e4c60bf11f9.jpg", "https://telegra.ph/file/718a7d5768a31d8c80c79.jpg"]
-PING_IMG_URL = ["https://telegra.ph/file/571367b1eea6ab10f75fb.jpg", "https://telegra.ph/file/af106b1b43e4c60bf11f9.jpg", "https://telegra.ph/file/718a7d5768a31d8c80c79.jpg"] 
-STATS_IMG_URL = "https://telegra.ph/file/718a7d5768a31d8c80c79.jpg"
+START_IMG_URL = ["https://telegra.ph/file/1e4f0a02aa72591a80ead.jpg", "https://telegra.ph/file/76e6de6beceb40278fa5c.jpg", "https://telegra.ph/file/2eb7dc4e9015c7194da6a.jpg"]
+PING_IMG_URL = ["https://telegra.ph/file/2eb7dc4e9015c7194da6a.jpg", "https://telegra.ph/file/76e6de6beceb40278fa5c.jpg", "https://telegra.ph/file/1e4f0a02aa72591a80ead.jpg"] 
+STATS_IMG_URL = "https://telegra.ph/file/1e4f0a02aa72591a80ead.jpg"
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg"
