@@ -71,14 +71,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="👻𝐓ɢ_𝐆ᴏᴅ💪🏻",
 
-                url=f"t.me/unfav_sage",
+                url=f"t.me/maouarfin",
 
             ),
             InlineKeyboardButton(
 
                 text="💌 ɢʀᴏᴜᴘ",
 
-                url=f"t.me/sagebotsupport",
+                url=f"t.me/gcanimecommunity",
 
             ),
         ],
@@ -101,14 +101,14 @@ def stream_markup(_, chat_id):
 
                 text="👻𝐓ɢ_𝐆ᴏᴅ💪🏻",
 
-                url=f"t.me/unfav_sage",
+                url=f"t.me/maouarfin",
 
             ),
             InlineKeyboardButton(
 
                 text="💌 ɢʀᴏᴜᴘ",
 
-                url=f"t.me/sagebotsupport",
+                url=f"t.me/gcanimecommunity",
 
             ),
         ],
