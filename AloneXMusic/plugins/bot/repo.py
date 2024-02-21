@@ -26,30 +26,30 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/sagebotsupport"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/unfav_sage"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/gcanimecommunity"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/maouarfin"),
           ],
                [
-                InlineKeyboardButton("𝗦𝗔𝗚𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/sagebotsupport"),
+                InlineKeyboardButton("𝗦𝗔𝗚𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/gcanimecommunity"),
 
 ],
              [
-              InlineKeyboardButton("𝗩2 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sagexdd/Sagexmusic"),
+              InlineKeyboardButton("𝗩2 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/arfin03/Sagexmusic"),
               ],
               [
-InlineKeyboardButton("𝗩2 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧", url=f"https://github.com/Sagexdd/Sagexmusic"),
+InlineKeyboardButton("𝗩2 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧", url=f"https://github.com/Arfin03/Sagexmusic"),
 ],
 
 
 [
-InlineKeyboardButton("𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧", url=f"https://t.me/sagexmusicbot"),
+InlineKeyboardButton("𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧", url=f"https://t.me/maouarfin"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/9179ebe031879224ac049.jpg",
+        photo="https://telegra.ph/file/de78daf84b6e6c4653279.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
